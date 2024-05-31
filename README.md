@@ -1,5 +1,8 @@
-Ampcontrol assignment - Exploratory Data Analysis - EV Charging and Behaviors
-------------
+# Exploratory Data Analysis (EDA) on EV Charging Data
+
+## Project Description
+
+This project focuses on the exploratory data analysis (EDA) of electric vehicle (EV) charging behaviors. The aim is to understand patterns and insights related to EV charging using the provided datasets.
 
 ## Installation
 
